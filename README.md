@@ -1,3 +1,2 @@
 # yiistudy
-
-this is master branch
+this is merge branch bingo!
